@@ -3,3 +3,7 @@
 ### Description:
 
 A Streamlit web app that allows users to upload an image and receive a caption OR provide a public URL to the image and get a caption.
+
+### Credits:
+
+Thank you to petermartens98 and Faiqaslam.
